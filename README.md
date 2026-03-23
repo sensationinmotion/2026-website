@@ -5,6 +5,6 @@
 
   # sensationinmotion's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[sensationinmotion.github.io/2026-website](https://sensationinmotion.github.io/2026-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
