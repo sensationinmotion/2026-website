@@ -1,9 +1,9 @@
 ---
 ---
 
-# sensationinmotion's Website
+# Body, meet world
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the Sensation in Motion Lab at San Diego State University! We study how the physical organization of sensory systems in the skin and muscle affect human movement, and how to use movement analysis to test sensory systems to diagnose sensory pathologies and measure recovery.
 
 {% include section.html %}
 
