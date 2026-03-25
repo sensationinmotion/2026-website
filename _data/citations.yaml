@@ -27,8 +27,8 @@
   date: '2024-09-02'
   link: https://doi.org/gvbk96
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.94485.2
   title: Future movement plans interact in sequential arm movements
   authors:
@@ -72,8 +72,8 @@
   date: '2023-08-01'
   link: https://doi.org/gsd386
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.05.24.542099
   title: Future movement plans interact in sequential arm movements
   authors:
@@ -104,8 +104,8 @@
   date: '2023-05-01'
   link: https://doi.org/gr8755
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cophys.2021.02.001
   title: Skin and muscle receptors shape coordinated fast feedback responses in the
     upper limb
@@ -118,8 +118,8 @@
   date: '2021-04-01'
   link: https://doi.org/gp7ghk
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cub.2020.07.092
   title: Stretch reflexes
   authors:
@@ -129,8 +129,8 @@
   date: '2020-09-01'
   link: https://doi.org/gp7ggv
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00232.2020
   title: Voluntary modification of rapid tactile-motor responses during reaching differs
     from its visuomotor counterpart
@@ -141,8 +141,8 @@
   date: '2020-07-01'
   link: https://doi.org/gp7ggw
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-019-05709-6
   title: "Synergic control of action in levodopa-na\xEFve Parkinson\u2019s disease\
     \ patients: I. Multi-finger interaction and coordination"
@@ -158,8 +158,8 @@
   date: '2019-12-14'
   link: https://doi.org/gp7gh8
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0226596
   title: Force-stabilizing synergies can be retained by coordinating sensory-blocked
     and sensory-intact digits
@@ -173,8 +173,8 @@
   date: '2019-12-17'
   link: https://doi.org/gp7gkc
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/ejn.14479
   title: "Maintaining arm control during self\u2010triggered and unpredictable unloading\
     \ perturbations"
@@ -186,8 +186,8 @@
   date: '2019-06-20'
   link: https://doi.org/gjd28n
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/00222895.2019.1580670
   title: Effect of Sensory Deprivation on Maximal Force Abilities from Local to Non-local
     Digits
@@ -202,8 +202,8 @@
   date: '2019-03-08'
   link: https://doi.org/gp7gjh
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00045.2018
   title: Stability of hand force production. II. Ascending and descending synergies
   authors:
@@ -213,8 +213,8 @@
   date: '2018-09-01'
   link: https://doi.org/gd9swm
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.3224-17.2018
   title: Movement Variability Is Processed Bilaterally by Inferior Parietal Lobule
   authors:
@@ -224,8 +224,8 @@
   date: '2018-03-07'
   link: https://doi.org/gp7gkd
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-018-5231-5
   title: Multi-finger synergies and the muscular apparatus of the hand
   authors:
@@ -238,8 +238,8 @@
   date: '2018-03-12'
   link: https://doi.org/gdjt86
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00563.2017
   title: Force illusions and drifts observed during muscle vibration
   authors:
@@ -250,8 +250,8 @@
   date: '2018-01-01'
   link: https://doi.org/gczs8c
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-018-5179-5
   title: Performance drifts in two-finger cyclical force production tasks performed
     by one and two actors
@@ -263,8 +263,8 @@
   date: '2018-01-15'
   link: https://doi.org/gc5dx8
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.clinbiomech.2017.06.004
   title: "The recovery response to a novel unannounced laboratory-induced slip: The\
     \ \u201Cfirst trial effect\u201D in older adults"
@@ -277,8 +277,8 @@
   date: '2017-10-01'
   link: https://doi.org/gb4rvj
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00485.2017
   title: Stability of hand force production. I. Hand level control variables and multifinger
     synergies
@@ -289,8 +289,8 @@
   date: '2017-12-01'
   link: https://doi.org/gp7gpz
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.neuroscience.2017.03.022
   title: 'Unintentional force changes in cyclical tasks performed by an abundant system:
     Empirical observations and a dynamical model'
@@ -303,8 +303,8 @@
   date: '2017-05-01'
   link: https://doi.org/gp7gtm
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-016-4768-4
   title: 'The synergic control of multi-finger force production: stability of explicit
     and implicit task components'
@@ -316,8 +316,8 @@
   date: '2016-09-06'
   link: https://doi.org/f9mnxx
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-016-4632-6
   title: 'Interpersonal synergies: static prehension tasks performed by two actors'
   authors:
@@ -330,8 +330,8 @@
   date: '2016-03-28'
   link: https://doi.org/f8tjjw
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00221-015-4364-z
   title: Force-stabilizing synergies in motor tasks involving two actors
   authors:
@@ -344,8 +344,8 @@
   date: '2015-06-24'
   link: https://doi.org/f7r86n
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/00222895.2014.996281
   title: Task-Specific Stability of Multifinger Steady-State Action
   authors:
@@ -356,8 +356,8 @@
   date: '2015-01-07'
   link: https://doi.org/gp7g2t
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00395.2014
   title: Stability of multifinger action in different state spaces
   authors:
@@ -368,8 +368,8 @@
   date: '2014-12-15'
   link: https://doi.org/f6s82w
   orcid: 0000-0003-1025-4533
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1123/mc.2024-0122
   title: Terms Are Tools in Biological Motor Control
   authors:
@@ -378,17 +378,5 @@
   publisher: Motor Control
   date: '2025-01-01'
   link: https://doi.org/hbtjtc
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1152/jn.00414.2024
-  title: Single-shot detection of microscale tactile features
-  authors:
-  - Sasha Reschechtko
-  - Wylianne R. Pangan
-  - Reza Zeinal Zadeh
-  - J. Andrew Pruszynski
-  publisher: Journal of Neurophysiology
-  date: '2025-06-01'
-  link: https://doi.org/hbtjtd
   plugin: sources.py
   file: sources.yaml
